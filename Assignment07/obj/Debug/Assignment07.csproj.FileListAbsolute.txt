@@ -1,0 +1,8 @@
+D:\Training\phase2\day7\Assignment07\Assignment07\bin\Debug\Assignment07.exe.config
+D:\Training\phase2\day7\Assignment07\Assignment07\bin\Debug\Assignment07.exe
+D:\Training\phase2\day7\Assignment07\Assignment07\bin\Debug\Assignment07.pdb
+D:\Training\phase2\day7\Assignment07\Assignment07\obj\Debug\Assignment07.csproj.AssemblyReference.cache
+D:\Training\phase2\day7\Assignment07\Assignment07\obj\Debug\Assignment07.csproj.SuggestedBindingRedirects.cache
+D:\Training\phase2\day7\Assignment07\Assignment07\obj\Debug\Assignment07.csproj.CoreCompileInputs.cache
+D:\Training\phase2\day7\Assignment07\Assignment07\obj\Debug\Assignment07.exe
+D:\Training\phase2\day7\Assignment07\Assignment07\obj\Debug\Assignment07.pdb
